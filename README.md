@@ -1,1 +1,1 @@
-# qpaseo_repository
+# 깃허브 기능을 사용하여 보는곳
